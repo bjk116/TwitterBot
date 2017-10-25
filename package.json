@@ -1,0 +1,23 @@
+{
+  "name": "TwitterBot",
+  "version": "1.0.0",
+  "description": "Making a twitter bot using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjk116/TwitterBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjk116/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/bjk116/TwitterBot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
